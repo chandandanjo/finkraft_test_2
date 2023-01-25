@@ -1,0 +1,1 @@
+Here is the scraping result of Nykaa, I couldn't get what the question meant by all that GST thing that's why I just scraped basic details. I prefer to scrape websites and datapoints provide alongwith the question. 
